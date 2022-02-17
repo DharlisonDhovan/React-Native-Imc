@@ -3,9 +3,9 @@ import React, { useState } from "react";
 import {
   KeyboardAvoidingView
 } from "react-native"
-import Title from './componentes/title/index'
-import Form from './componentes/src/index'
-import Styles from "./componentes/src/Styles";
+import Title from './src/componentes/title/index'
+import Form from './src/componentes/index'
+import Styles from "./src/componentes/Styles";
 
 
 
